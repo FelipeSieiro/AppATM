@@ -86,7 +86,6 @@ const styles = StyleSheet.create({
   },
   item: {
     marginBottom: 15,
-    padding: 5,
   },
 });
 
